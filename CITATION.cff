@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite Garestan and include the relevant video timestamp."
+title: "The Entire History of For Honor, I Guess — Research Archive"
+type: dataset
+authors:
+  - name: "Garestan"
+date-released: "2026-10-07"
+abstract: "A searchable archival package built from the full timestamped transcript of Garestan's For Honor history project, covering game history, lore, community subcultures, balance, and competitive-scene recollections."
+keywords:
+  - "For Honor"
+  - "Garestan"
+  - "Smooth Brains"
+  - "TSB"
+  - "Dominion Series"
+  - "competitive history"
+  - "game history"

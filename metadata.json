@@ -1,0 +1,51 @@
+{
+  "title": "The Entire History of For Honor, I Guess — Research Archive",
+  "creator": "Garestan",
+  "archive_build_date": "2026-10-07",
+  "source_type": "creator-supplied timestamped transcript",
+  "line_count": 6077,
+  "last_timestamp": "03:54:51",
+  "purpose": "Searchable public research archive for For Honor history, lore, community, and competitive-scene material.",
+  "caveats": [
+    "Automatic/working transcript contains transcription errors.",
+    "Speaker identities are not consistently encoded.",
+    "Participant recollections and opinions must be attributed rather than treated as universally verified facts."
+  ],
+  "key_topics": [
+    "Smooth Brains / Smoothbrains",
+    "TSB",
+    "Dominion Series",
+    "Competitive scene/community",
+    "Ranked / ranked duels",
+    "EVO",
+    "Xbox",
+    "PlayStation",
+    "Crossplay",
+    "CCU",
+    "Peer-to-peer / servers",
+    "Gear stats",
+    "Faction War",
+    "Marching Fire",
+    "Breach",
+    "Arcade",
+    "Apollyon",
+    "Blackstone Legion",
+    "Iron Legion",
+    "Horkos",
+    "Chimera",
+    "Outlanders",
+    "North American clans",
+    "Raven Knight"
+  ],
+  "files": [
+    "index.html",
+    "README.md",
+    "transcript_raw.txt",
+    "transcript_numbered.md",
+    "competitive_scene_notes.md",
+    "topic_index.csv",
+    "SOURCE_NOTES.md",
+    "metadata.json",
+    "CITATION.cff"
+  ]
+}
